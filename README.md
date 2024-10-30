@@ -9,7 +9,7 @@ Features:
 - Customizable parameters to adjust edge detection sensitivity.
 
 Getting Started:
-1. Clone this repository to your local machine.
+1.Clone this repository to your local machine.
 
 2.Follow the instructions in the installation section to set up the necessary dependencies.
 
